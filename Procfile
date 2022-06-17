@@ -1,1 +1,1 @@
-web: gunicorn it-learn.wsgi --log-file -
+web: gunicorn Luanantt.wsgi --log-file -
